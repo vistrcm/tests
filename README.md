@@ -1,2 +1,2 @@
-# tests
-test for candidates
+# Test tasks
+test tasks for our candidates.
